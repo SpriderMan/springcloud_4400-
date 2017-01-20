@@ -1,0 +1,4 @@
+D:\workspace\spring-cloud-advance\spring-cloud-advance-fegin-consumer\src\main\java\com\cp\euraka\fegin\consumer\FeignApplication.java
+D:\workspace\spring-cloud-advance\spring-cloud-advance-fegin-consumer\src\main\java\com\cp\euraka\fegin\consumer\controller\Controller.java
+D:\workspace\spring-cloud-advance\spring-cloud-advance-fegin-consumer\src\main\java\com\cp\euraka\fegin\consumer\integration\HystrixClientFallback.java
+D:\workspace\spring-cloud-advance\spring-cloud-advance-fegin-consumer\src\main\java\com\cp\euraka\fegin\consumer\integration\ServiceCallBackClient.java
